@@ -20,7 +20,7 @@ Hosted on GitHub Pages (or any hosting platform)
 
 portfolio/ │── index.html # Main HTML file │── style.css # Internal CSS (can be externalized later) │── images/ # Profile & project images │── resume.pdf # Downloadable resume │── README.md # Project documentation
 
-🖥 Watch my porfolio here :[ https://github.com/swimmyrani12/Task-1]
+🖥 Watch my porfolio here :[https://swimmyrani12.github.io/Task-1/]
 
 📬 Contact
 
